@@ -1,0 +1,22 @@
+{
+    "name": "Tim Rusin",
+    "website": "https://timrusin.github.io/",
+    "linkedin": "https://www.linkedin.com/in/timrusin/",
+    "github": "timrusin",
+    "email": "timrusin@gmail.com",
+    "resume": "https://docs.google.com/document/d/1ArBlZQjMelYnbG8I4pTnCV4rkrkjmP3hCn29UFWZXPM/edit?usp=sharing",
+    "proficientTechnologies": [
+        "Javascript",
+        "React",
+        "Node",
+        "Express",
+        "Mongodb",
+        "Python",
+        "Django"
+    ],
+    "otherSkills": [
+        "Teaching",
+        "Audio",
+        "Reef Tanks"
+    ]
+}
